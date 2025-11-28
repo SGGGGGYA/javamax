@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DAY-04/DAY-04-线程.iml" filepath="$PROJECT_DIR$/DAY-04/DAY-04-线程.iml" />
       <module fileurl="file://$PROJECT_DIR$/day03/day03-io流.iml" filepath="$PROJECT_DIR$/day03/day03-io流.iml" />
       <module fileurl="file://$PROJECT_DIR$/javamax.iml" filepath="$PROJECT_DIR$/javamax.iml" />
       <module fileurl="file://$PROJECT_DIR$/javamaxday1/javamaxday1.iml" filepath="$PROJECT_DIR$/javamaxday1/javamaxday1.iml" />
